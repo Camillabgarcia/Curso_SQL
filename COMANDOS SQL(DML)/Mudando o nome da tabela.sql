@@ -1,0 +1,3 @@
+USE VENDAS_SUCOS;
+
+ALTER TABLE tabela_de_vendas RENAME NOTAS;
