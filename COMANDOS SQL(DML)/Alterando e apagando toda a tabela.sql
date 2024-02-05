@@ -16,3 +16,7 @@ SELECT * FROM produtos;
 UPDATE produtos2 SET PRECO_LISTA = 8;
 
 DELETE FROM produtos2;
+
+DELETE FROM notas;
+
+DELETE FROM itens_notas;
